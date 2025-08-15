@@ -24,6 +24,7 @@ hide:
 | `HBO Max Movies/Shows`     | `hbomax`      | Collection of Movies/Shows Streaming on HBO Max.     |
 | `Hulu Movies/Shows`        | `hulu`        | Collection of Movies/Shows Streaming on Hulu.        |
 | `ITVX Movies/Shows`        | `itvx`        | Collection of Movies/Shows Streaming on ITVX.        |
+| `Movistar+ Movies/Shows`   | `Movistar+`   | Collection of Movies/Shows Streaming on Movistar+.   |
 | `Netflix Movies/Shows`     | `netflix`     | Collection of Movies/Shows Streaming on Netflix.     |
 | `NOW Movies/Shows`         | `now`         | Collection of Movies/Shows Streaming on NOW.         |
 | `Paramount+ Movies/Shows`  | `paramount`   | Collection of Movies/Shows Streaming on Paramount+.  |
