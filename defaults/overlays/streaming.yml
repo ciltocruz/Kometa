@@ -140,8 +140,8 @@ overlays:
     variables: {key: crunchyroll, tmdb_key: 283, weight: 120, allowed_libraries: show}
     template: [name: standard, name: mdb_streaming]
 
-  movistar:
-    variables: {key: movistar, tmdb_key: 149|339|2241, weight: 115}
+  Movistar Plus+:
+    variables: {key: movistar plus+, tmdb_key: 149|339|2241, weight: 115}
     template: [name: standard, name: mdb_streaming]    
 
   YouTube:
