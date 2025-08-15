@@ -157,6 +157,10 @@ overlays:
     variables: { weight: 10}
     template: [name: standard, name: networks]
 
+  Atresplayer:
+    variables: { weight: 10}
+    template: [name: standard, name: networks]  
+
   AT-X:
     variables: { weight: 10}
     template: [name: standard, name: networks]
